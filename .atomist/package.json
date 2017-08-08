@@ -37,7 +37,7 @@
     }
   },
   "name": "@atomist-contrib/atomist-spielerei",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "atomist-contrib",
   "description": "Atomist Rugs from atomist-contrib/atomist-spielerei",
   "repository": {
